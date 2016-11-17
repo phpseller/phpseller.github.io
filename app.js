@@ -4,9 +4,9 @@
 
 var config = {
   // - Your app's id on moneypot.com
-  app_id: 485,                             // <----------------------------- EDIT ME!
+  app_id: 2422,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'BTC Zen Dice',
+  app_name: 'FORZADICE',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Lf_MQwUAAAAAPWk8D_Zqlm4p4cFXXr-rD_iJtKr',  // <----- EDIT ME!
